@@ -1,2 +1,3 @@
 input a,b
-ask which operator
+take operator input
+
